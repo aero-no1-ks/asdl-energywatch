@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["explorer"],{"0c4f":function(n,e,r){"use strict";r.r(e);var t=function(){var n=this,e=n.$createElement,r=n._self._c||e;return r("div",[n._v("\r\n  sdflkdflkj\r\n")])},l=[],u={data:function(){return{}}},c=u,a=r("2877"),o=Object(a["a"])(c,t,l,!1,null,null,null);e["default"]=o.exports}}]);
-//# sourceMappingURL=explorer-legacy.1a274073.js.map
